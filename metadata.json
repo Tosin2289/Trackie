@@ -1,0 +1,6 @@
+{
+  "name": "Trackie",
+  "description": "Smart Personal Financial Tracker — Your money. Explained. Track, understand, plan, and improve.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
